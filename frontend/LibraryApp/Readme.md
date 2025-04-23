@@ -8,7 +8,7 @@ Cette application mobile React Native permet aux utilisateurs de gérer une bibl
 
 ```bash
 git clone https://github.com/WissalEnnajah/EmpruntLivre.git
-cd frontend
+cd frontend/LibraryApp
 ```
 
 ### 2. Installer les dépendances
