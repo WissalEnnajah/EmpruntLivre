@@ -67,11 +67,13 @@ LibraryApp/
 
 ## ⚙️ Instructions de démarrage
 
-### 🖥️ Backend
 1. Cloner le repo :
+```bash
+git clone https://github.com/WissalEnnajah/EmpruntLivre.git
+```
+### 🖥️ Backend
    ```bash
-   git clone https://github.com/votre-utilisateur/LibraryApp.git
-   cd LibraryApp/backend
+   cd backend
    ```
 2. Installer les dépendances :
    ```bash
@@ -100,7 +102,7 @@ LibraryApp/
 ## 🔐 Accès admin
 Par défaut :
 - Nom d'utilisateur : `admin`
-- Mot de passe : `admi`
+- Mot de passe : `admin`
 
 ## 🧩 Améliorations futures
 - Notifications push pour les rappels de retour.
