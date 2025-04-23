@@ -29,7 +29,7 @@ LibraryApp est une application de gestion de bibliothèque permettant aux utilis
 
 | Connexion | Inscription | Livres (Admin) |
 |----------|-------------|----------------|
-| ![Login](./screenshots/login.jpg) | ![Signup](./screenshots/signup.jpg) | ![Livres](./screenshots/livres-admin.jpg) |
+| ![Login](./screenshots/Login.jpg) | ![Signup](./screenshots/Signup.jpg) | ![Livres](./screenshots/Livres-admin.jpg) |
 
 *Voir plus de captures dans le dossier `/screenshots`.*
 
