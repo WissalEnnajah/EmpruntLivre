@@ -84,7 +84,7 @@ git clone https://github.com/WissalEnnajah/EmpruntLivre.git
 3. Configurer votre `.env` et lancer :
    ```bash
    python manage.py migrate
-   python manage.py runserver
+   python manage.py runserver 0.0.0.0:8000
    ```
 
 ### 📱 Frontend
