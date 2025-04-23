@@ -40,7 +40,7 @@ python manage.py createsuperuser
 ### 6. Lancer le serveur
 
 ```bash
-python manage.py runserver
+python manage.py runserver O.O.O.O:8000
 ```
 
 ## Endpoints API
